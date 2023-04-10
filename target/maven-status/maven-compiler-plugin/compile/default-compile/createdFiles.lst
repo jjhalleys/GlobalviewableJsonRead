@@ -1,0 +1,16 @@
+com/schema/Full.class
+com/schema/Episode.class
+com/schema/Titles.class
+com/readjson/ReadViewableApi.class
+com/schema/ViewableSchema.class
+com/schema/AllowedTextLanguage.class
+com/readjson/Main.class
+com/schema/Full__1.class
+com/schema/Short__1.class
+com/schema/Summaries.class
+com/schema/Offeringsf.class
+com/schema/AllowedAudioLanguage.class
+com/schema/Short.class
+com/utils/ViewableUtils.class
+com/schema/Offering.class
+com/schema/Title.class
